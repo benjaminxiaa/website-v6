@@ -17,6 +17,7 @@ function NewMexico() {
           <a href="/portfolio/big-sur">Big Sur</a>
           <a href="/portfolio/death-valley">Death Valley</a>
           <a href="/portfolio/hakone-gardens">Hakone Gardens</a>
+          <a className='activePage'>New Mexico</a>
         </div>
 
 

@@ -16,6 +16,7 @@ function HakoneGardens() {
         <div className='gallery-nav'>
           <a href="/portfolio/big-sur">Big Sur</a>
           <a href="/portfolio/death-valley">Death Valley</a>
+          <a className="activePage">Hakone Gardens</a>
           <a href="/portfolio/new-mexico">New Mexico</a>
         </div>
 

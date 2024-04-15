@@ -20,7 +20,15 @@ function About() {
         </div>
       </div>
 
-      <div className="main">
+      <div className="center">
+        <div className="highlight">
+          <h1>o/</h1>
+        </div>
+        <div className="content">
+          <h2>
+          I'm an enthusiast photographer who started in 2019, before the pandemic. I took photography more seriously around 2022 and created this website for my photos in late 2022.
+          </h2>
+        </div>
       </div>
     </>
   );

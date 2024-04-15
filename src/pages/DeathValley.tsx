@@ -15,6 +15,7 @@ function DeathValley() {
 
         <div className='gallery-nav'>
           <a href="/portfolio/big-sur">Big Sur</a>
+          <a className="activePage">Death Valley</a>
           <a href="/portfolio/hakone-gardens">Hakone Gardens</a>
           <a href="/portfolio/new-mexico">New Mexico</a>
         </div>

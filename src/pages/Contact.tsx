@@ -19,7 +19,10 @@ function Contact() {
         </div>
       </div>
 
-      <div className="main">
+      <div className="center">
+        <h2>
+          Feel free to reach out to me at <a className="contactLink" href="mailto:me@bxia.net">me@bxia.net</a>
+        </h2>
       </div>
     </>
   );

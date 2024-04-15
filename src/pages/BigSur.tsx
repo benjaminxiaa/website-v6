@@ -14,6 +14,7 @@ function BigSur() {
         <br />
 
         <div className='gallery-nav'>
+          <a className="activePage">Big Sur</a>
           <a href="/portfolio/death-valley">Death Valley</a>
           <a href="/portfolio/hakone-gardens">Hakone Gardens</a>
           <a href="/portfolio/new-mexico">New Mexico</a>
